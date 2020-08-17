@@ -6,5 +6,6 @@ Contributor:
 
 Disclaimer:
 ```
-This project is a testing programme to start a first JavaFX application, the programme may not contain dynamic datas.
+This project is a testing programme to start a first JavaFX application.
+Following program may not contain sophisticated code for extension.
 ```
