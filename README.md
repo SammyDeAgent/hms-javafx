@@ -6,6 +6,6 @@ Contributor:
 
 Disclaimer:
 ```
-This project is a testing programme to start a first JavaFX application.
+This project is a testing programm to start the first step into JavaFX application.
 Following program may not contain sophisticated code for extension.
 ```
